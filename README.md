@@ -46,8 +46,8 @@ sub-directory.
 1. Build and install the library, preferably using a [release tarball][]
    The configure script defaults to a `/usr/local` prefix.
 
-        tar xf editline-1.15.3.tar.xz
-        cd editline-1.15.3/
+        tar xf editline-1.16.1.tar.xz
+        cd editline-1.16.1/
         ./configure --prefix=/usr
         make all
         sudo make install
